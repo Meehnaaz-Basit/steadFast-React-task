@@ -1,0 +1,16 @@
+.card-body {
+  transition: 0.5s;
+}
+
+.card-body:hover {
+  transform: scale(0.9);
+  transition: 0.5s;
+  box-shadow: 0px 0px 20px 0px rgba(202, 60, 225, 0.5);
+}
+.card-text h3 {
+  transition: 0.5s;
+}
+.card-body:hover .card-text h3 {
+  color: #ca3cff;
+  transition: 0.5s;
+}
