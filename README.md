@@ -15,18 +15,6 @@ This project is a responsive website built using **React.js**, **Tailwind CSS**,
 - **Tailwind CSS**: For styling the website with utility-first CSS classes.
 - **DaisyUI**: A component library for Tailwind CSS that provides pre-designed components, enhancing UI development.
 
-## Installation
-
-Follow these steps to set up and run the project on your local machine:
-
-### Prerequisites
-
-Before you begin, ensure you have the following tools installed on your system:
-
-- **Node.js**: [Download Node.js](https://nodejs.org/)
-- **Git**: [Download Git](https://git-scm.com/)
-- **VS Code** (or any text editor)
-
 ### Steps to Install
 
 1. **Clone the Repository**
